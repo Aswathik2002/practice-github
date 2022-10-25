@@ -77,7 +77,7 @@ cartitems?.map((prod)=>{
                    removeItemtoCart(prod)
                 }}>Remove From Cart</Button> 
 
-                  <Button style={{margin:"10px",width:"157px"}} onClick={()=>{
+                  <Button style={{margin:"10px",width:"158px"}} onClick={()=>{
                   buttonclick2(prod)
                  }}>Save for Later</Button>   
                 <div>
