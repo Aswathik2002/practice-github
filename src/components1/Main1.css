@@ -1,0 +1,46 @@
+.products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container1{
+    background-color: antiquewhite;
+}
+.cont1{
+    position: relative;
+   font-size: 22px;
+   text-align: center;
+}
+.cont3{
+    color: blue;
+    }
+   
+.img1{
+    width: 200px;
+    height: 200px;
+   }
+   .cont2c{
+    color: rebeccapurple;
+    }
+    .cont1t{
+        position: relative;
+       font-size: 20px;
+       text-align: center;
+    }
+    .incBtn{
+        margin-left: 10px;
+        /* margin-bottom: 10px; */
+    }
+    .Btn{
+        margin-left: 10px;
+    }
+    .decBtn{
+        margin-left: 10px;
+        /* margin-bottom: 10px; */
+    }
+    .Button{
+        margin: 10px;
+    }
+    .imgreview{
+        width:160px;
+    }
